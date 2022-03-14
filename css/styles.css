@@ -202,12 +202,27 @@
     display: none;
 }
 
-.calc {
+.calculatorh {
     position: absolute;
     top: 5rem;
     color: #fff;
     font-size: 20px;
     margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-weight: bold;
+    display: none;
+}
+
+.burnh {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 6rem;
     border: 3px solid white;
     height: 80%;
     width: 80%;
