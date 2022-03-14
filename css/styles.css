@@ -50,3 +50,17 @@
 .about-us h1 {
     font-weight: bold;
 }
+
+
+/* service page  */
+
+#services {
+    background-image: url(./Assets/background2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    top: 6rem;
+}
