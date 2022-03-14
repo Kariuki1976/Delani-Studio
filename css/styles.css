@@ -64,3 +64,14 @@
     position: relative;
     top: 6rem;
 }
+
+.services {
+    text-align: center;
+    position: relative;
+    top: 9rem;
+    color: #fff;
+}
+
+.services h2 {
+    font-weight: bold;
+}
