@@ -110,3 +110,30 @@
 #what p {
     display: none;
 }
+
+
+/* portfolio */
+
+.portfolio h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.portfolio {
+    position: relative;
+}
+
+.darkh {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
