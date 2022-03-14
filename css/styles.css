@@ -199,7 +199,7 @@ section {
     font-weight: bold;
 }
 
-form {
+.form {
     position: relative;
     top: 12rem;
 }
