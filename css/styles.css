@@ -16,3 +16,10 @@
     background-position: center;
     height: 110vh;
 }
+
+.header {
+    text-align: center;
+    position: relative;
+    top: 15rem;
+    color: white;
+}
