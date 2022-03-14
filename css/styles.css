@@ -1,0 +1,18 @@
+/* styling body */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+
+
+/* Home page */
+
+.home {
+    background-image: url(/Images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+}
