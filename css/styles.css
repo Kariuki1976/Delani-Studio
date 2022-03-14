@@ -39,3 +39,14 @@
 
 
 /* about us page */
+
+.about-us {
+    top: 3rem;
+    text-align: center;
+    position: relative;
+    line-height: 200%;
+}
+
+.about-us h1 {
+    font-weight: bold;
+}
