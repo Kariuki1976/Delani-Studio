@@ -1,4 +1,4 @@
-# **Akan-Names**
+# **Delani Studio**
 
 By Emmanuel Kariuki
 ---
