@@ -55,7 +55,7 @@
 /* service page  */
 
 #services {
-    background-image: url(./Assets/background2.jpg);
+    background-image: url(/Images/laptop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -74,4 +74,10 @@
 
 .services h2 {
     font-weight: bold;
+}
+
+.service2 {
+    font-style: normal;
+    position: relative;
+    line-height: 200%;
 }
