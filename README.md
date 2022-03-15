@@ -20,17 +20,16 @@ By Emmanuel Kariuki
 
 -Contributors
 ---
+
+
 ## **Description**
 
-This is a webpage that generates a unique Akan name from the Ghana community depending on the different day of the week.
+DELANI STUDIO is a website that explains what the studio is all about. It has a short description of the studio on the home page and also a logo to enable one identify the brand. It also has some text explaining who they are,how they work and gallery entailing previous projects.The portfolio has a few projects and their titles.The website has also linked their contacts in case one wants to reach out.
 ---
 
-<!-- ### **Preview**
-(Image/Screenshot .png) -->
----
 ### **Live link**
 
-[Live Link](https://kariuki1976.github.io/Akan-Names/)
+[Live Link]()
 ---
 
 #### **Get Started**
@@ -52,25 +51,18 @@ Html for structure.
 
 Css for styling.
 
-Javascript for interaction
+Jquery for interaction
 ---
 
 ### **Behavior Driven Development (BDD).**
--Welcome landing page.
-Displays form for providing user date of birth and gender.
-INPUT: user picks date
-INPUT: user selects gender.
-OUTPUT: generates and displays an akan name corresponding to details provided.
+-Enter your email
+-Enter your name
+-Type a text
+-Pop up message will appear
 
--Pick a DATE AND GENDER
-INPUT: no details provided, example: date and gender.
-OUTPUT: please pick a date and select a gender.
--Resets form Input upon validation.
-INPUT: user clicks generate button.
-OUTPUT: resets form and display Akan name.
 ### **License**
 
-To get the license click here [License](/home/moringa/Documents/Moringa-prep/Akan-Names-Generator/license)
+To get the license click here [License]()
 ---
 ### **Author Info**
 Author: Emmanuel Kariuki

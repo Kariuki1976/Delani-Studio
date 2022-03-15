@@ -10,6 +10,8 @@ $(document).ready(function() {
     $(".product-management").on("click", function() {
         $(".product").toggle();
         $(".productp").toggle();
+
+
     });
 
     $(".design").on("click", function() {
@@ -22,6 +24,8 @@ $(document).ready(function() {
     $(".development").on("click", function() {
         $(".devI").toggle();
         $(".devP").toggle();
+
+
     });
 
 
@@ -43,11 +47,11 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $(".ontario").mouseenter(function() {
-        $(".ontario").show();
+        $(".mighty").show();
         $(".ontario").css("opacity", "0.4")
     });
     $(".ontario").mouseleave(function() {
-        $(".image").hide();
+        $(".mighty").hide();
         $(".ontario").css("opacity", "2")
     });
 });
@@ -55,22 +59,22 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $(".orange").mouseenter(function() {
-        $(".image").show();
+        $(".background").show();
         $(".orange").css("opacity", "0.8")
     });
     $(".orange").mouseleave(function() {
-        $(".image").hide();
+        $(".background").hide();
         $(".orange").css("opacity", "2")
     });
 });
 
 $(document).ready(function() {
     $(".jim").mouseenter(function() {
-        $(".image").show();
+        $(".carrey").show();
         $(".jim").css("opacity", "0.8")
     });
     $(".jim").mouseleave(function() {
-        $(".image").hide();
+        $(".carrey").hide();
         $(".jim").css("opacity", "2")
     });
 });
@@ -78,33 +82,33 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $(".good").mouseenter(function() {
-        $(".image").show();
+        $(".day").show();
         $(".good").css("opacity", "0.8")
     });
     $(".good").mouseleave(function() {
-        $(".image").hide();
+        $(".day").hide();
         $(".good").css("opacity", "2")
     });
 });
 
 $(document).ready(function() {
     $(".calculator").mouseenter(function() {
-        $(".image").show();
+        $(".calculator1").show();
         $(".calculator").css("opacity", "0.6")
     });
     $(".calculator").mouseleave(function() {
-        $(".image").hide();
+        $(".calculator1").hide();
         $(".calculator").css("opacity", "2")
     });
 });
 
 $(document).ready(function() {
     $(".burn").mouseenter(function() {
-        $(".image").show();
+        $(".burned1").show();
         $(".burn").css("opacity", "0.9")
     });
     $(".burn").mouseleave(function() {
-        $(".image").hide();
+        $(".burned1").hide();
         $(".burn").css("opacity", "2")
     });
 });
@@ -122,11 +126,11 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $(".giraffe").mouseenter(function() {
-        $(".image").show();
+        $(".restaurant").show();
         $(".giraffe").css("opacity", "0.6")
     });
     $(".giraffe").mouseleave(function() {
-        $(".image").hide();
+        $(".restaurant").hide();
         $(".giraffe").css("opacity", "2")
     });
 });

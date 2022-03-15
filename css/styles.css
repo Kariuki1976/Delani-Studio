@@ -91,12 +91,12 @@
 
 .section4 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 #what h5 {
     text-align: center;
-    /* margin-left: 40%; */
+    margin-left: 40%;
 }
 
 #what h1 {
@@ -124,6 +124,111 @@
 }
 
 .image {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.mighty {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.background {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.carrey {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.day {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.calculator1 {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.burned1 {
+    position: absolute;
+    top: 5rem;
+    color: #fff;
+    margin-left: 4rem;
+    border: 3px solid white;
+    height: 80%;
+    width: 80%;
+    margin: 3%;
+    top: 1rem;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;
+}
+
+.restaurant {
     position: absolute;
     top: 5rem;
     color: #fff;
