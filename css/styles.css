@@ -11,7 +11,7 @@
 /* Home page */
 
 .home {
-    background-image: url(https://raw.githubusercontent.com/Kariuki1976/Delani-Studio/master/images/background.jpg);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     background-position: center;
     height: 110vh;
@@ -55,7 +55,7 @@
 /* service page  */
 
 #services {
-    background-image: url(/images/laptop.jpg);
+    background-image: url(../images/laptop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
