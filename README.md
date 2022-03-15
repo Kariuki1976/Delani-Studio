@@ -29,7 +29,7 @@ DELANI STUDIO is a website that explains what the studio is all about. It has a 
 
 ### **Live link**
 
-[Live Link]()
+[Live Link](https://kariuki1976.github.io/Delani-Studio/)
 ---
 
 #### **Get Started**
@@ -38,7 +38,7 @@ To get a local copy to your machine.
 ---
 
 #### **Setup**
--Download or clone files from this repo.Repository link:[Akan Names]()
+-Download or clone files from this repo.Repository link:[Delani Studio](https://github.com/Kariuki1976/Delani-Studio.git)
 
 #### **Requirements**
 
@@ -62,7 +62,7 @@ Jquery for interaction
 
 ### **License**
 
-To get the license click here [License]()
+To get the license click here [License](https://github.com/Kariuki1976/Delani-Studio/blob/master/License)
 ---
 ### **Author Info**
 Author: Emmanuel Kariuki
