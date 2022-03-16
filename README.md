@@ -4,6 +4,7 @@ By Emmanuel Kariuki
 ---
 
 ### **Table of Contents**
+
 -Description
 
 -Live link
@@ -64,6 +65,8 @@ Jquery for interaction
 
 To get the license click here [License](https://github.com/Kariuki1976/Delani-Studio/blob/master/License)
 ---
+
+
 ### **Author Info**
 Author: Emmanuel Kariuki
 
